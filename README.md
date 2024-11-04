@@ -1,6 +1,4 @@
-#Tutorial para trabajar con Typescript en Nodejs 
-
----
+# Tutorial para trabajar con Typescript en Nodejs 
 
 ### **1. Instala Node.js y npm**
 
@@ -162,7 +160,3 @@
 
 - **Documentación oficial de TypeScript**: [typescriptlang.org](https://www.typescriptlang.org/docs/)
 - **Guía de Express.js con TypeScript**: [Express & TypeScript](https://expressjs.com/en/advanced/best-practice-security.html)
-
----
-
-¡Ahora estás listo para comenzar a desarrollar tu backend en Node.js con TypeScript! Este entorno te proporcionará una base sólida para construir aplicaciones escalables y mantenibles.
